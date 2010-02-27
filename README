@@ -1,2 +1,16 @@
 A simple little script that is used to download wallpapers
-from the wallpaper site socwall.com
+From the wallpaper site socwall.com
+
+There are currently 2 modes of operation 
+
+Latest Wallpapers :
+	This will dowload this 30+- wallpapers that have 
+	been uploaded
+
+	e.g. ./socwalldownloader.py autoUpdate
+
+Catergory Download :
+	This downloads all the wallpapers in a specific 
+	category 
+
+	e.g. ./socwalldownloader.py catergoryDownload
